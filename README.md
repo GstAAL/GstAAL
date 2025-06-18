@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Student at **FMIPA - Sistem Komputer, Universitas Tanjungpura**
+<!-- 🎓 Student at **FMIPA - Sistem Komputer, Universitas Tanjungpura**-->
 - 🧠 Interested in **embedded systems, fullstack web**, and **Japanese culture**
 - 🛠 Currently exploring:
   - `Python`, `HTML/CSS`, `C` (for microcontroller)
