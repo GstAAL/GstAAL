@@ -1,23 +1,22 @@
-<h1 align="center">Hi there! 👋 I'm Gusti Achmad</h1>
+<h1 align="center">Hi there! I'm Gusti Achmad</h1>
 <p align="center">
-💻 Freshman in Computer System Engineering at Universitas Tanjungpura  
-🌱 Currently learning: Python, ESP32, and Japanese  
-🇯🇵 Dreaming to work in Japan as a software/hardware engineer  
+Freshman in Computer System Engineering at Universitas Tanjungpura  
+Currently learning: Python, ESP32, and Japanese    
 </p>
 
 ---
 
 ### 🚀 About Me
 <!-- 🎓 Student at **FMIPA - Sistem Komputer, Universitas Tanjungpura**-->
-- 🧠 Interested in **embedded systems, fullstack web**, and **Japanese culture**
-- 🛠 Currently exploring:
+- Interested in **embedded systems, fullstack web**, and **Japanese culture**
+-  Currently exploring:
   - `Python`, `HTML/CSS`, `C` (for microcontroller)
   - `ESP32`, `Arduino`, `Raspberry Pi Pico`
-- 📘 JLPT Level: aiming for **N3** (currently reviewing kanji and grammar)
+-  JLPT Level: aiming for **N3** (currently reviewing kanji and grammar)
 
 ---
 
-### 🧰 Languages & Tools
+###  Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
